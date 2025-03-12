@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/floortile.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/font.spritefont</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/Food.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/ghost.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/pacman.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/SpriteSheet1.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/Tileset.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/wall.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/walltile.png</File>
+    <File>C:/Users/anton/Projects/source/source/repos/PacManFinal/PacManFinal/Content/whiteRectangle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
